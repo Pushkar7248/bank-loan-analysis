@@ -1,0 +1,537 @@
+Loan_ID,Customer_Name,Age,Gender,Annual_Income,Loan_Amount,Term_Months,Interest_Rate,Credit_Score,Loan_Purpose,Loan_Status
+LNK1000,John Doe,59,Male,41046,69288,36,18.41,638,Major Purchase,Fully Paid
+LNK1001,Barbara Gonzalez,49,Female,126999,56195,36,7.21,811,Debt Consolidation,Fully Paid
+LNK1002,Michael Brown,35,Female,146021,25581,60,9.07,648,Debt Consolidation,Fully Paid
+LNK1003,James Smith,63,Female,58769,57648,36,10.63,598,Small Business,Current
+LNK1004,Susan Wilson,28,Female,83302,35087,36,10.98,575,Debt Consolidation,Fully Paid
+LNK1005,David Miller,41,Male,53150,54930,36,10.84,781,Debt Consolidation,Fully Paid
+LNK1006,Maria Garcia,59,Female,98247,37981,36,17.3,608,Credit Card,Late (31-120 days)
+LNK1007,Maria Garcia,39,Male,34853,74298,60,14.78,687,Major Purchase,Late (31-120 days)
+LNK1008,Robert Jones,43,Female,124613,51167,60,13.4,698,Credit Card,Late (31-120 days)
+LNK1009,Susan Wilson,31,Male,119399,48408,60,9.52,802,Debt Consolidation,Fully Paid
+LNK1010,Michael Brown,31,Female,51792,44499,60,16.21,826,Small Business,Current
+LNK1011,Barbara Gonzalez,44,Male,89129,57269,36,17.92,653,Credit Card,Fully Paid
+LNK1012,Susan Wilson,56,Male,136019,43559,60,16.18,539,Credit Card,Fully Paid
+LNK1013,Karen Taylor,60,Male,104478,79319,36,5.52,632,Home Improvement,Fully Paid
+LNK1014,Linda Hernandez,44,Female,143811,53787,36,13.77,631,Debt Consolidation,Fully Paid
+LNK1015,John Doe,23,Female,144130,40488,60,6.16,778,Small Business,Fully Paid
+LNK1016,Michael Brown,42,Male,97298,79441,36,8.85,583,Credit Card,Current
+LNK1017,Elizabeth Lopez,22,Male,61987,79663,60,6.27,741,Credit Card,Fully Paid
+LNK1018,Alice Smith,44,Female,45850,27431,36,13.35,615,Small Business,Current
+LNK1019,Mary Rodriguez,64,Male,42112,66681,60,14.43,608,Debt Consolidation,Current
+LNK1020,James Smith,50,Female,54058,68483,60,6.99,720,Home Improvement,Fully Paid
+LNK1021,James Smith,58,Female,75420,54153,60,10.49,540,Credit Card,Fully Paid
+LNK1022,Robert Jones,22,Male,68890,11368,60,11.43,646,Home Improvement,Fully Paid
+LNK1023,Michael Brown,41,Male,96017,32424,60,10.3,611,Major Purchase,Current
+LNK1024,Maria Garcia,53,Non-binary,77304,50004,36,7.07,602,Debt Consolidation,Fully Paid
+LNK1026,Maria Garcia,42,Male,135921,55069,36,15.27,823,Major Purchase,Fully Paid
+LNK1027,Linda Hernandez,64,Female,31524,57326,60,6.42,770,Major Purchase,Current
+LNK1028,Elizabeth Lopez,45,Female,130424,28398,36,6.54,694,Debt Consolidation,Late (31-120 days)
+LNK1029,James Smith,47,Non-binary,45048,55861,60,10.11,779,Debt Consolidation,Fully Paid
+LNK1030,John Doe,62,Female,65111,73577,36,17.74,782,Small Business,Current
+LNK1031,Linda Hernandez,48,Male,67904,70641,36,14.19,539,Home Improvement,Current
+LNK1032,Maria Garcia,36,Male,84912,14078,60,14.32,688,Home Improvement,Late (31-120 days)
+LNK1033,Susan Wilson,35,Female,64008,30003,36,10.2,663,Small Business,Current
+LNK1034,Barbara Gonzalez,64,Female,30060,67768,36,13.22,523,Small Business,Current
+LNK1035,Susan Wilson,23,Male,104666,56047,36,5.63,523,Major Purchase,Current
+LNK1036,Alice Smith,57,Female,113559,76626,60,13.77,503,Small Business,Late (31-120 days)
+LNK1037,Linda Hernandez,27,Male,85337,62660,60,17.37,822,Credit Card,Fully Paid
+LNK1038,Mary Rodriguez,41,Female,140616,54786,36,13.46,789,Home Improvement,Fully Paid
+LNK1039,Maria Garcia,29,Male,43350,6925,36,16.86,680,Small Business,Fully Paid
+LNK1040,John Martinez,59,Male,54354,31015,36,14.91,747,Credit Card,Current
+LNK1041,Elizabeth Lopez,38,Male,75186,38320,60,7.07,615,Credit Card,Current
+LNK1042,David Miller,24,Male,58145,69881,60,17.23,778,Credit Card,Fully Paid
+LNK1043,Jessica Anderson,45,Male,64020,31289,36,6.36,568,Credit Card,Current
+LNK1044,Robert Jones,34,Female,116123,8389,36,12.44,753,Major Purchase,Fully Paid
+LNK1045,John Doe,29,Female,136667,30683,36,7.35,680,Credit Card,Fully Paid
+LNK1046,Sarah Thomas,46,Female,105186,18629,60,5.65,817,Major Purchase,Charged Off
+LNK1047,James Smith,22,Non-binary,115469,66550,60,10.99,668,Major Purchase,Fully Paid
+LNK1048,Jessica Anderson,40,Male,50581,29826,36,9.34,812,Credit Card,Fully Paid
+LNK1049,Jessica Anderson,48,Male,118929,31630,36,11.82,748,Home Improvement,Current
+LNK1051,Robert Jones,64,Male,81474,71435,60,6.07,553,Credit Card,Fully Paid
+LNK1052,Susan Wilson,28,Non-binary,121748,16653,36,7.1,825,Credit Card,Current
+LNK1053,Mary Rodriguez,55,Male,144618,32961,60,12.76,812,Home Improvement,Current
+LNK1054,Alice Smith,34,Non-binary,99626,79137,60,9.96,637,Debt Consolidation,Fully Paid
+LNK1055,William Davis,37,Male,36960,38662,36,14.98,667,Debt Consolidation,Fully Paid
+LNK1056,David Miller,56,Female,65772,61446,36,13.98,602,Major Purchase,Current
+LNK1057,Robert Jones,60,Female,51520,26288,36,16.49,584,Major Purchase,Fully Paid
+LNK1058,Maria Garcia,24,Non-binary,79481,41877,60,14.5,816,Home Improvement,Late (31-120 days)
+LNK1059,Jessica Anderson,22,Male,66408,20313,60,11.09,711,Small Business,Current
+LNK1060,John Doe,26,Female,124006,77715,60,14.25,502,Debt Consolidation,Charged Off
+LNK1061,William Davis,62,Non-binary,87134,15326,36,9.08,678,Major Purchase,Fully Paid
+LNK1062,Michael Brown,24,Female,50491,6560,36,9.48,841,Debt Consolidation,Charged Off
+LNK1063,Michael Brown,49,Female,31341,31745,60,15.76,802,Home Improvement,Fully Paid
+LNK1064,Mary Rodriguez,38,Female,74623,36890,60,11.3,831,Home Improvement,Fully Paid
+LNK1065,Michael Brown,46,Male,120327,25022,36,15.88,537,Small Business,Fully Paid
+LNK1066,Robert Jones,64,Female,30338,57579,60,16.19,738,Small Business,Fully Paid
+LNK1067,William Davis,54,Female,101431,75316,60,16.65,668,Home Improvement,Current
+LNK1068,Sarah Thomas,30,Female,42254,33380,36,17.42,842,Major Purchase,Fully Paid
+LNK1069,William Davis,56,Male,81860,7356,60,11.1,813,Debt Consolidation,Fully Paid
+LNK1070,Elizabeth Lopez,34,Male,41344,75326,60,9.65,805,Credit Card,Current
+LNK1071,David Miller,51,Female,31750,25049,60,13.07,529,Small Business,Fully Paid
+LNK1072,Alice Smith,35,Female,84756,21082,36,10.33,689,Credit Card,Current
+LNK1073,Jessica Anderson,28,Male,97957,5661,36,13.31,524,Major Purchase,Fully Paid
+LNK1074,James Smith,34,Female,135423,42412,60,14.67,611,Small Business,Current
+LNK1075,John Doe,43,Male,88053,7920,36,14.45,705,Credit Card,Current
+LNK1076,Susan Wilson,60,Male,100855,65315,36,10.37,684,Major Purchase,Fully Paid
+LNK1077,John Martinez,41,Male,45896,13946,36,7.67,546,Debt Consolidation,Fully Paid
+LNK1078,Linda Hernandez,36,Male,85761,50500,36,11.1,727,Major Purchase,Fully Paid
+LNK1079,Michael Brown,38,Female,92552,21309,60,7.35,538,Small Business,Current
+LNK1080,Karen Taylor,44,Male,107454,60230,60,17.07,515,Home Improvement,Fully Paid
+LNK1081,Mary Rodriguez,46,Non-binary,148681,35027,36,10,521,Debt Consolidation,Fully Paid
+LNK1082,Michael Brown,45,Non-binary,120600,77541,36,7.51,712,Credit Card,Fully Paid
+LNK1083,Linda Hernandez,61,Female,142153,64321,36,5.83,809,Small Business,Fully Paid
+LNK1084,David Miller,49,Female,57935,5956,60,13.9,648,Home Improvement,Fully Paid
+LNK1085,Sarah Thomas,35,Male,67641,79131,60,13.78,740,Major Purchase,Current
+LNK1086,Barbara Gonzalez,21,Female,59711,52908,36,9.93,771,Home Improvement,Fully Paid
+LNK1087,Elizabeth Lopez,45,Female,100342,30963,60,6.43,558,Small Business,Fully Paid
+LNK1088,Robert Jones,27,Male,136896,44443,60,10.83,786,Small Business,Current
+LNK1089,Karen Taylor,29,Female,42182,44063,60,9.55,701,Home Improvement,Current
+LNK1090,John Doe,44,Female,117833,9703,60,14.3,531,Major Purchase,Fully Paid
+LNK1091,Sarah Thomas,21,Female,86276,70128,36,13.38,661,Home Improvement,Fully Paid
+LNK1092,William Davis,64,Female,49541,77099,60,10.24,754,Small Business,Fully Paid
+LNK1093,Elizabeth Lopez,28,Female,124457,30849,36,8.33,753,Small Business,Late (31-120 days)
+LNK1094,Maria Garcia,44,Male,112310,36860,60,18.34,508,Credit Card,Fully Paid
+LNK1095,Susan Wilson,31,Female,74813,36585,60,11.4,638,Credit Card,Late (31-120 days)
+LNK1096,Michael Brown,37,Female,67198,27015,60,14.45,509,Debt Consolidation,Current
+LNK1097,James Smith,28,Male,38820,48585,60,7.33,713,Small Business,Current
+LNK1098,Barbara Gonzalez,55,Male,54070,31958,36,11.81,772,Credit Card,Fully Paid
+LNK1099,Maria Garcia,55,Male,99768,31017,36,5.86,823,Home Improvement,Fully Paid
+LNK1101,Jessica Anderson,25,Non-binary,110559,17201,60,18.03,610,Home Improvement,Fully Paid
+LNK1102,David Miller,62,Male,103543,34426,36,10.49,652,Major Purchase,Current
+LNK1103,Michael Brown,59,Female,113441,22778,36,6.01,622,Credit Card,Charged Off
+LNK1104,Sarah Thomas,61,Male,71786,50241,36,5.9,601,Debt Consolidation,Current
+LNK1105,John Doe,48,Non-binary,124934,47229,60,10.54,740,Home Improvement,Current
+LNK1106,Maria Garcia,27,Female,129804,53364,60,7.58,820,Home Improvement,Fully Paid
+LNK1107,Sarah Thomas,29,Female,36737,62056,36,5.8,690,Home Improvement,Fully Paid
+LNK1108,Alice Smith,28,Male,66062,32490,36,15.33,716,Major Purchase,Fully Paid
+LNK1109,Michael Brown,32,Male,84237,24975,60,11.46,550,Credit Card,Current
+LNK1110,Robert Jones,54,Male,81571,31723,60,9.26,791,Home Improvement,Late (31-120 days)
+LNK1111,Mary Rodriguez,53,Male,55510,28279,36,17.2,580,Home Improvement,Current
+LNK1112,David Miller,43,Female,49426,16561,36,7.01,587,Debt Consolidation,Fully Paid
+LNK1113,John Martinez,44,Female,67265,71061,36,17.93,693,Debt Consolidation,Fully Paid
+LNK1114,Barbara Gonzalez,57,Non-binary,47850,54153,36,9.58,603,Credit Card,Current
+LNK1115,Sarah Thomas,55,Non-binary,148249,38142,36,17.05,770,Credit Card,Fully Paid
+LNK1116,William Davis,64,Female,96150,31916,60,13.34,595,Small Business,Current
+LNK1117,Robert Jones,60,Female,117312,69324,60,16.25,697,Debt Consolidation,Current
+LNK1118,William Davis,42,Female,119613,49965,60,18.29,500,Small Business,Current
+LNK1119,William Davis,47,Female,104910,9648,60,9.25,666,Major Purchase,Fully Paid
+LNK1120,John Doe,55,Male,82375,40133,36,17.99,625,Small Business,Fully Paid
+LNK1121,Maria Garcia,21,Male,65435,55677,36,10.56,812,Home Improvement,Fully Paid
+LNK1122,Barbara Gonzalez,55,Male,126443,75135,36,10.51,580,Small Business,Fully Paid
+LNK1123,David Miller,57,Female,87132,40046,36,9.93,750,Credit Card,Fully Paid
+LNK1124,Susan Wilson,34,Female,108945,52064,60,12.54,668,Major Purchase,Current
+LNK1126,Alice Smith,21,Female,125402,50893,36,12.7,640,Small Business,Fully Paid
+LNK1127,Karen Taylor,25,Female,32983,66272,36,12.54,569,Major Purchase,Fully Paid
+LNK1128,Barbara Gonzalez,46,Male,127241,72649,60,15.4,761,Major Purchase,Fully Paid
+LNK1129,Barbara Gonzalez,34,Male,50662,69674,36,16.34,839,Home Improvement,Fully Paid
+LNK1130,Michael Brown,59,Female,53510,18760,36,11.23,807,Small Business,Current
+LNK1131,Elizabeth Lopez,47,Female,108187,26927,60,9.43,744,Major Purchase,Fully Paid
+LNK1132,Robert Jones,29,Female,70998,66367,60,8.87,502,Major Purchase,Fully Paid
+LNK1133,Barbara Gonzalez,35,Female,86846,17588,36,8.03,836,Debt Consolidation,Fully Paid
+LNK1134,Robert Jones,35,Female,124071,57233,36,6.25,562,Major Purchase,In Grace Period
+LNK1135,John Doe,46,Female,36640,49738,60,9.95,548,Debt Consolidation,Current
+LNK1136,Linda Hernandez,62,Female,74547,38397,36,9.01,575,Small Business,Fully Paid
+LNK1137,Susan Wilson,33,Female,84620,76260,36,18.06,674,Small Business,Current
+LNK1138,Maria Garcia,52,Male,45317,24816,60,12.75,608,Small Business,Current
+LNK1139,Robert Jones,59,Male,145608,47240,36,10.01,682,Credit Card,Charged Off
+LNK1140,John Martinez,52,Male,37564,11276,60,13.05,691,Small Business,Fully Paid
+LNK1141,Mary Rodriguez,24,Female,57345,28499,36,7.31,564,Major Purchase,Late (31-120 days)
+LNK1142,David Miller,50,Female,143824,76635,60,11.27,836,Home Improvement,Late (31-120 days)
+LNK1143,Karen Taylor,57,Female,124223,40946,36,13.64,770,Debt Consolidation,Late (31-120 days)
+LNK1144,Alice Smith,43,Male,109273,60204,36,11.86,599,Credit Card,Current
+LNK1145,Barbara Gonzalez,59,Male,104859,56886,36,10.72,531,Small Business,Current
+LNK1146,Susan Wilson,35,Male,110765,76652,36,18.42,627,Small Business,Fully Paid
+LNK1147,Linda Hernandez,63,Male,140017,20563,60,16.94,838,Home Improvement,Current
+LNK1148,Maria Garcia,49,Female,104038,14847,60,13.6,542,Home Improvement,Current
+LNK1149,Barbara Gonzalez,56,Male,82393,31155,36,12.9,577,Credit Card,Current
+LNK1150,John Doe,33,Male,96081,72278,36,13.57,813,Debt Consolidation,Fully Paid
+LNK1151,William Davis,52,Female,132650,23309,60,8.12,788,Small Business,Current
+LNK1152,Sarah Thomas,27,Male,59430,5619,60,10.64,769,Credit Card,Current
+LNK1153,Jessica Anderson,42,Female,105532,55108,36,6.01,661,Major Purchase,Fully Paid
+LNK1154,Robert Jones,48,Female,57788,39707,36,11.68,688,Major Purchase,Current
+LNK1155,Jessica Anderson,22,Male,125505,25337,36,12.56,746,Credit Card,Current
+LNK1156,James Smith,62,Female,78543,71504,60,8.46,715,Small Business,Current
+LNK1157,Maria Garcia,26,Female,43919,52614,36,18.03,814,Credit Card,Fully Paid
+LNK1158,Sarah Thomas,48,Female,99346,5281,60,17.32,838,Small Business,Fully Paid
+LNK1159,James Smith,48,Male,126122,32420,36,14.89,667,Home Improvement,Late (31-120 days)
+LNK1160,Jessica Anderson,64,Female,69974,44030,60,12.43,838,Credit Card,Fully Paid
+LNK1161,William Davis,64,Female,137309,6058,36,16.81,692,Small Business,Current
+LNK1162,Alice Smith,40,Male,46371,33404,36,7.2,782,Credit Card,Fully Paid
+LNK1163,Mary Rodriguez,50,Male,75084,34856,36,15.78,835,Credit Card,Current
+LNK1164,David Miller,31,Non-binary,59629,14200,60,7.12,512,Small Business,Fully Paid
+LNK1165,John Doe,48,Female,81184,69178,36,15.82,739,Small Business,Current
+LNK1166,Michael Brown,45,Male,91916,38997,36,9.08,819,Debt Consolidation,Fully Paid
+LNK1167,Maria Garcia,59,Female,103972,30611,36,16.9,646,Credit Card,Fully Paid
+LNK1168,Karen Taylor,53,Male,92187,46235,36,17.77,703,Major Purchase,Fully Paid
+LNK1169,Elizabeth Lopez,21,Male,42984,40057,60,7.43,579,Credit Card,Fully Paid
+LNK1170,Karen Taylor,47,Male,63039,6239,60,11.51,542,Credit Card,Charged Off
+LNK1171,Susan Wilson,33,Male,115431,70661,60,18.25,588,Small Business,Charged Off
+LNK1172,William Davis,61,Male,113691,50272,36,11.78,647,Credit Card,Fully Paid
+LNK1173,Maria Garcia,23,Male,88606,66212,60,16.73,594,Credit Card,Current
+LNK1174,Barbara Gonzalez,59,Female,40616,20398,36,13.15,650,Major Purchase,Fully Paid
+LNK1176,Robert Jones,28,Male,135373,11638,36,9.22,521,Credit Card,Current
+LNK1177,John Martinez,47,Female,80072,11570,36,8.14,812,Home Improvement,Late (31-120 days)
+LNK1178,Mary Rodriguez,29,Male,54574,73785,60,15.4,827,Debt Consolidation,Fully Paid
+LNK1179,Karen Taylor,57,Female,33430,14110,60,10.53,506,Major Purchase,Current
+LNK1180,John Doe,53,Male,149123,17115,60,12.15,705,Credit Card,Fully Paid
+LNK1181,Karen Taylor,62,Male,42676,44062,36,11.9,613,Home Improvement,Charged Off
+LNK1182,Barbara Gonzalez,64,Male,40816,27911,36,13,771,Credit Card,Fully Paid
+LNK1183,John Martinez,44,Male,62733,37556,36,16.75,582,Credit Card,Current
+LNK1184,Robert Jones,35,Male,115680,6969,36,18.25,678,Small Business,Current
+LNK1185,David Miller,52,Male,32050,48753,36,10.8,709,Small Business,Current
+LNK1186,Robert Jones,52,Male,139996,9470,36,16.26,827,Small Business,Fully Paid
+LNK1187,Maria Garcia,44,Male,63933,15225,36,15.44,623,Home Improvement,Late (31-120 days)
+LNK1188,Susan Wilson,61,Male,54951,28196,36,12.96,612,Credit Card,Fully Paid
+LNK1189,Linda Hernandez,32,Male,62413,18669,60,17.93,511,Debt Consolidation,Current
+LNK1190,Linda Hernandez,59,Male,64801,42380,60,8.11,625,Major Purchase,Fully Paid
+LNK1191,David Miller,22,Female,85619,53320,60,6.92,552,Small Business,Fully Paid
+LNK1192,Susan Wilson,23,Female,62913,52414,60,16.6,830,Small Business,Current
+LNK1193,Elizabeth Lopez,57,Male,142573,20577,36,11.21,782,Credit Card,Fully Paid
+LNK1194,Mary Rodriguez,37,Female,149076,60409,60,16.51,639,Credit Card,Fully Paid
+LNK1195,John Doe,22,Female,70600,33625,60,17.11,596,Home Improvement,Fully Paid
+LNK1196,Karen Taylor,22,Male,87775,29089,36,6.31,504,Home Improvement,Fully Paid
+LNK1197,Elizabeth Lopez,48,Female,120816,41487,36,16.99,556,Small Business,Current
+LNK1198,Alice Smith,43,Female,120093,70838,60,11.33,833,Credit Card,Late (31-120 days)
+LNK1199,Mary Rodriguez,57,Male,142590,55138,36,12.14,568,Debt Consolidation,Fully Paid
+LNK1201,William Davis,53,Female,34494,42208,36,17.54,558,Credit Card,Fully Paid
+LNK1202,Maria Garcia,21,Female,110688,59061,36,5.75,532,Credit Card,Fully Paid
+LNK1203,Robert Jones,39,Male,119431,35659,36,11.7,817,Home Improvement,Current
+LNK1204,Linda Hernandez,22,Male,104691,36890,36,14.44,549,Major Purchase,Current
+LNK1205,John Martinez,64,Male,127419,52055,36,14.9,518,Small Business,Fully Paid
+LNK1206,Michael Brown,46,Female,138730,24508,36,14.5,713,Credit Card,Fully Paid
+LNK1207,Jessica Anderson,52,Female,73001,47287,60,7.25,696,Small Business,Fully Paid
+LNK1208,James Smith,26,Male,97364,31984,36,9.39,546,Credit Card,Current
+LNK1209,Sarah Thomas,52,Male,75028,13125,36,10.16,666,Small Business,Charged Off
+LNK1210,John Doe,24,Female,137434,41059,36,15.96,788,Major Purchase,Fully Paid
+LNK1211,Michael Brown,31,Male,127659,74569,60,9.12,640,Home Improvement,Fully Paid
+LNK1212,Robert Jones,37,Male,67573,22087,36,8.24,583,Major Purchase,In Grace Period
+LNK1213,Barbara Gonzalez,58,Female,30806,10704,36,17.95,681,Debt Consolidation,Late (31-120 days)
+LNK1214,Robert Jones,44,Female,86638,65576,60,5.62,578,Home Improvement,Fully Paid
+LNK1215,Jessica Anderson,25,Female,136506,78384,60,18.47,714,Major Purchase,Fully Paid
+LNK1216,Alice Smith,54,Female,59757,77460,36,14.3,513,Debt Consolidation,Fully Paid
+LNK1217,Barbara Gonzalez,26,Male,64636,32208,60,16.27,714,Credit Card,Current
+LNK1218,Mary Rodriguez,42,Male,110097,71024,36,9.33,627,Credit Card,Fully Paid
+LNK1219,Elizabeth Lopez,31,Female,78280,44882,36,5.69,809,Small Business,Fully Paid
+LNK1220,Robert Jones,36,Male,54262,30923,36,15.09,747,Home Improvement,Current
+LNK1221,Michael Brown,53,Male,110435,34165,36,16.34,528,Credit Card,Fully Paid
+LNK1222,Mary Rodriguez,29,Male,92211,72203,60,15.13,779,Home Improvement,Current
+LNK1223,Mary Rodriguez,26,Male,84842,9114,36,7.36,837,Credit Card,Fully Paid
+LNK1224,Elizabeth Lopez,36,Male,86979,69965,36,15.29,818,Small Business,Fully Paid
+LNK1225,John Doe,49,Male,144524,41321,60,15.5,701,Major Purchase,Current
+LNK1226,John Martinez,23,Male,111470,78297,60,14.06,556,Small Business,Fully Paid
+LNK1227,Linda Hernandez,40,Male,68197,30426,36,15.46,717,Debt Consolidation,Charged Off
+LNK1228,David Miller,56,Female,71844,22772,60,16.5,561,Credit Card,Current
+LNK1229,Linda Hernandez,39,Female,94754,8712,36,13.48,656,Debt Consolidation,Fully Paid
+LNK1230,Sarah Thomas,46,Female,131868,6367,60,6.65,701,Debt Consolidation,Current
+LNK1231,James Smith,23,Female,64157,56924,60,11.84,516,Home Improvement,Fully Paid
+LNK1232,Barbara Gonzalez,39,Female,107129,8726,60,6.51,821,Credit Card,Late (31-120 days)
+LNK1233,Susan Wilson,40,Male,70042,32723,36,10.8,505,Debt Consolidation,Fully Paid
+LNK1234,Alice Smith,52,Female,91665,14108,36,10.79,557,Major Purchase,Current
+LNK1235,Michael Brown,27,Female,145512,40643,36,6.36,824,Debt Consolidation,Fully Paid
+LNK1236,Barbara Gonzalez,61,Female,146953,36324,36,10.03,817,Major Purchase,Fully Paid
+LNK1237,Karen Taylor,53,Male,112856,13927,36,6.94,668,Home Improvement,Current
+LNK1238,Linda Hernandez,60,Male,57376,27443,60,16.01,581,Debt Consolidation,Current
+LNK1239,Jessica Anderson,59,Male,139049,68449,36,17.82,718,Small Business,Fully Paid
+LNK1240,John Doe,38,Male,85554,65233,36,6.44,676,Home Improvement,Fully Paid
+LNK1241,David Miller,60,Female,44199,30537,60,17.92,703,Major Purchase,Current
+LNK1242,Robert Jones,21,Female,148533,27612,36,12.29,570,Home Improvement,Late (31-120 days)
+LNK1243,Jessica Anderson,31,Male,111412,11471,60,9.39,765,Debt Consolidation,Fully Paid
+LNK1244,Barbara Gonzalez,48,Non-binary,80948,40631,36,6.5,597,Credit Card,Fully Paid
+LNK1245,William Davis,45,Female,103781,36348,36,12.01,844,Credit Card,Fully Paid
+LNK1246,Michael Brown,43,Male,102750,69732,36,15.83,790,Major Purchase,In Grace Period
+LNK1247,David Miller,51,Male,96262,6177,36,14.69,707,Major Purchase,Fully Paid
+LNK1248,Mary Rodriguez,50,Male,147424,9760,60,6.15,501,Credit Card,Fully Paid
+LNK1249,Robert Jones,62,Male,76600,37779,36,6.45,623,Major Purchase,Current
+LNK1251,John Martinez,27,Male,92483,58551,36,9.34,573,Small Business,Fully Paid
+LNK1252,Alice Smith,36,Male,48297,16556,36,8.52,665,Small Business,Fully Paid
+LNK1253,James Smith,46,Male,60448,32598,60,9.15,521,Home Improvement,Fully Paid
+LNK1254,Susan Wilson,22,Female,56172,16563,36,15.95,653,Small Business,Fully Paid
+LNK1255,John Doe,21,Male,72874,51819,60,17.58,794,Debt Consolidation,Current
+LNK1256,Karen Taylor,32,Female,37657,78770,60,10.77,718,Home Improvement,Fully Paid
+LNK1257,Susan Wilson,25,Male,114386,31966,36,17.28,656,Major Purchase,Current
+LNK1258,David Miller,57,Non-binary,55425,64889,60,9.68,729,Home Improvement,Current
+LNK1259,Linda Hernandez,52,Male,56685,31987,36,11.69,519,Credit Card,Current
+LNK1260,Jessica Anderson,29,Male,142855,63348,36,8.44,540,Major Purchase,Fully Paid
+LNK1261,Robert Jones,61,Non-binary,54578,29596,36,13.83,647,Credit Card,Fully Paid
+LNK1262,Linda Hernandez,55,Female,58831,38174,60,18.23,607,Major Purchase,Fully Paid
+LNK1263,Karen Taylor,39,Female,37906,69106,60,13.35,583,Small Business,Fully Paid
+LNK1264,Robert Jones,36,Male,91413,74967,36,10.15,821,Home Improvement,Fully Paid
+LNK1265,Michael Brown,23,Male,84028,64182,60,13.92,808,Debt Consolidation,Current
+LNK1266,Sarah Thomas,40,Female,37287,44310,36,7.1,789,Major Purchase,Fully Paid
+LNK1267,Barbara Gonzalez,44,Female,63660,61088,36,17.05,822,Major Purchase,Fully Paid
+LNK1268,David Miller,53,Female,105758,13906,36,12.04,633,Credit Card,Fully Paid
+LNK1269,Sarah Thomas,44,Female,90504,41914,60,11.34,706,Small Business,Current
+LNK1270,John Doe,31,Male,89720,50379,60,13.12,782,Credit Card,Fully Paid
+LNK1271,Barbara Gonzalez,28,Female,132979,42650,36,13.62,765,Credit Card,Current
+LNK1272,Linda Hernandez,56,Male,64701,51881,36,6.43,572,Small Business,Fully Paid
+LNK1273,Elizabeth Lopez,58,Male,113300,51413,36,14.37,547,Debt Consolidation,Late (31-120 days)
+LNK1274,Maria Garcia,60,Male,140177,11012,36,8.65,825,Credit Card,Late (31-120 days)
+LNK1276,Robert Jones,55,Male,113560,12151,60,16.19,599,Major Purchase,Fully Paid
+LNK1277,William Davis,45,Male,141543,62716,36,15.95,558,Small Business,Fully Paid
+LNK1278,Jessica Anderson,55,Female,53874,41378,36,12.68,757,Home Improvement,Fully Paid
+LNK1279,Robert Jones,45,Male,73642,47652,36,12.26,564,Debt Consolidation,Current
+LNK1280,Linda Hernandez,49,Female,127820,77430,60,7.36,582,Debt Consolidation,Current
+LNK1281,Jessica Anderson,38,Male,95160,18467,60,15.58,653,Small Business,Current
+LNK1282,Karen Taylor,38,Female,47602,36010,36,9.03,765,Major Purchase,Current
+LNK1283,Linda Hernandez,22,Female,133320,59691,60,11.96,808,Major Purchase,Fully Paid
+LNK1284,Karen Taylor,55,Male,118801,69157,36,9.2,578,Small Business,Fully Paid
+LNK1285,John Doe,36,Male,55931,17289,36,7.24,814,Major Purchase,Current
+LNK1286,Robert Jones,61,Male,124377,49976,36,13.68,649,Debt Consolidation,Fully Paid
+LNK1287,James Smith,56,Male,59192,48596,36,6.21,547,Debt Consolidation,Current
+LNK1288,Alice Smith,53,Non-binary,76542,28171,36,15.23,747,Home Improvement,Fully Paid
+LNK1289,Elizabeth Lopez,24,Male,72520,49139,60,9.63,777,Small Business,Fully Paid
+LNK1290,William Davis,53,Female,94772,53713,60,5.5,597,Credit Card,Charged Off
+LNK1291,John Martinez,34,Male,88762,34734,60,12.14,524,Credit Card,Fully Paid
+LNK1292,James Smith,41,Female,80106,77588,36,6.11,783,Home Improvement,Charged Off
+LNK1293,Michael Brown,40,Female,111121,68646,36,9.09,800,Home Improvement,Charged Off
+LNK1294,Karen Taylor,28,Female,55559,8654,60,14.69,567,Major Purchase,Current
+LNK1295,William Davis,27,Male,135595,23743,36,6.31,506,Home Improvement,Current
+LNK1296,Karen Taylor,23,Male,63742,53368,36,16.41,804,Home Improvement,Current
+LNK1297,Sarah Thomas,37,Male,99669,79172,36,5.55,636,Credit Card,In Grace Period
+LNK1298,Jessica Anderson,53,Female,110199,11441,60,8.71,663,Major Purchase,Fully Paid
+LNK1299,David Miller,32,Female,51754,29611,36,15.13,582,Home Improvement,Fully Paid
+LNK1300,John Doe,42,Non-binary,33972,17149,36,9.61,637,Home Improvement,Current
+LNK1301,Maria Garcia,42,Male,100831,64189,60,6.82,572,Major Purchase,Fully Paid
+LNK1302,James Smith,50,Female,142217,26675,36,10.18,736,Small Business,Fully Paid
+LNK1303,Maria Garcia,58,Female,71873,76031,36,9.02,545,Major Purchase,Fully Paid
+LNK1304,Karen Taylor,58,Male,124661,47668,36,16.46,605,Credit Card,Current
+LNK1305,Elizabeth Lopez,28,Male,136532,18673,36,9.57,787,Small Business,In Grace Period
+LNK1306,Alice Smith,47,Female,39903,70429,60,15.76,761,Debt Consolidation,Fully Paid
+LNK1307,Michael Brown,47,Female,33020,28669,36,17.09,675,Major Purchase,Late (31-120 days)
+LNK1308,Robert Jones,54,Female,71755,39068,36,11.14,665,Credit Card,Current
+LNK1309,Michael Brown,41,Male,115956,14435,60,17.33,644,Small Business,Current
+LNK1310,Susan Wilson,50,Female,116988,57249,60,10.41,829,Major Purchase,Current
+LNK1311,John Martinez,53,Male,75648,42384,60,18.03,782,Home Improvement,Current
+LNK1312,Sarah Thomas,48,Male,133537,36401,36,6.66,553,Major Purchase,Fully Paid
+LNK1313,Michael Brown,53,Male,39516,76831,36,14.43,677,Debt Consolidation,Current
+LNK1314,Jessica Anderson,25,Female,142863,39084,60,11.92,743,Major Purchase,Fully Paid
+LNK1315,John Doe,39,Female,145005,60826,60,10.54,840,Small Business,Late (31-120 days)
+LNK1316,Linda Hernandez,24,Female,32396,41451,36,13.73,626,Small Business,Charged Off
+LNK1317,Jessica Anderson,55,Male,114082,12227,36,14.65,770,Major Purchase,Fully Paid
+LNK1318,Robert Jones,37,Female,49129,36910,36,5.56,631,Small Business,Fully Paid
+LNK1319,Robert Jones,64,Male,31591,41041,60,7.67,592,Home Improvement,Current
+LNK1320,Barbara Gonzalez,48,Female,41303,70681,36,14.77,572,Major Purchase,Fully Paid
+LNK1321,John Martinez,50,Male,60561,70481,36,14.16,747,Home Improvement,In Grace Period
+LNK1322,Linda Hernandez,49,Male,101719,73576,36,18.06,847,Home Improvement,Fully Paid
+LNK1323,Robert Jones,26,Male,148618,69174,60,15.39,772,Credit Card,Fully Paid
+LNK1324,Alice Smith,55,Male,122108,31160,60,17.86,542,Major Purchase,Charged Off
+LNK1326,David Miller,57,Female,116231,22014,60,9.37,669,Home Improvement,Current
+LNK1327,Linda Hernandez,44,Male,37314,54104,60,6.87,711,Credit Card,Fully Paid
+LNK1328,Sarah Thomas,49,Female,147071,46621,36,15.66,667,Major Purchase,Current
+LNK1329,Elizabeth Lopez,51,Male,49623,73388,36,13.87,538,Major Purchase,Current
+LNK1330,John Doe,55,Female,97675,21014,36,6.13,744,Debt Consolidation,Current
+LNK1331,Mary Rodriguez,53,Female,142992,38755,60,10.18,650,Debt Consolidation,Current
+LNK1332,Maria Garcia,41,Female,126826,45390,36,17.94,610,Home Improvement,Current
+LNK1333,Karen Taylor,52,Male,95082,28711,60,12.01,546,Debt Consolidation,Fully Paid
+LNK1334,Linda Hernandez,43,Female,113624,62993,60,11.13,562,Home Improvement,Fully Paid
+LNK1335,Jessica Anderson,53,Female,135228,79696,36,11.45,724,Small Business,Current
+LNK1336,Susan Wilson,23,Male,63130,32213,60,8.22,568,Home Improvement,Fully Paid
+LNK1337,Susan Wilson,38,Male,81756,62784,36,10.29,798,Debt Consolidation,Current
+LNK1338,Maria Garcia,45,Female,127624,12421,36,10.31,789,Small Business,Fully Paid
+LNK1339,Susan Wilson,62,Female,56292,22727,60,6.18,795,Debt Consolidation,Current
+LNK1340,David Miller,51,Female,141785,9358,60,15.48,702,Home Improvement,Current
+LNK1341,Mary Rodriguez,23,Female,116206,70108,36,10.91,560,Credit Card,Fully Paid
+LNK1342,Alice Smith,60,Female,99274,37117,60,16.19,817,Major Purchase,Fully Paid
+LNK1343,Barbara Gonzalez,44,Male,32469,36910,60,16.55,813,Debt Consolidation,Fully Paid
+LNK1344,Barbara Gonzalez,52,Male,83947,60754,36,8.26,660,Home Improvement,Current
+LNK1345,John Doe,42,Male,52534,67438,60,14.05,830,Small Business,Current
+LNK1346,William Davis,43,Female,93620,34371,36,11.64,515,Debt Consolidation,Fully Paid
+LNK1347,John Martinez,22,Male,78874,56501,36,16.94,837,Debt Consolidation,Current
+LNK1348,Karen Taylor,47,Female,79708,65946,36,8.3,593,Major Purchase,Fully Paid
+LNK1349,Linda Hernandez,62,Female,104553,43467,60,14.31,803,Home Improvement,Fully Paid
+LNK1351,John Martinez,46,Male,79138,38893,36,9.34,837,Small Business,Fully Paid
+LNK1352,Robert Jones,37,Female,84302,36007,36,7.28,537,Home Improvement,Fully Paid
+LNK1353,Michael Brown,60,Male,77638,44532,60,13.97,626,Small Business,Fully Paid
+LNK1354,Maria Garcia,53,Female,108249,59253,36,15.1,774,Debt Consolidation,Fully Paid
+LNK1355,Maria Garcia,29,Male,135865,17323,60,9.6,663,Major Purchase,Fully Paid
+LNK1356,Michael Brown,63,Male,32719,78379,60,13.88,818,Major Purchase,Fully Paid
+LNK1357,William Davis,59,Female,52890,19210,36,10.64,576,Credit Card,Current
+LNK1358,James Smith,49,Male,107236,21456,60,14.77,673,Major Purchase,Fully Paid
+LNK1359,Elizabeth Lopez,62,Male,66509,36367,36,8.09,820,Debt Consolidation,Current
+LNK1360,John Doe,46,Female,72534,59624,60,17.07,590,Credit Card,Fully Paid
+LNK1361,Linda Hernandez,55,Female,132302,15106,60,9.24,737,Home Improvement,Fully Paid
+LNK1362,Maria Garcia,45,Female,122241,73008,60,10.28,763,Major Purchase,Current
+LNK1363,Elizabeth Lopez,44,Female,48787,77240,36,6.26,678,Credit Card,Charged Off
+LNK1364,Maria Garcia,33,Female,78845,69315,60,6.95,708,Debt Consolidation,Fully Paid
+LNK1365,James Smith,27,Male,87932,74249,36,12.21,572,Small Business,Late (31-120 days)
+LNK1366,Michael Brown,56,Male,122124,75587,36,8.98,606,Small Business,Current
+LNK1367,Susan Wilson,40,Male,121659,15756,36,16.36,844,Debt Consolidation,Current
+LNK1368,Barbara Gonzalez,21,Female,63062,73011,36,5.69,794,Debt Consolidation,Current
+LNK1369,James Smith,28,Female,105713,41378,36,10.43,783,Small Business,Fully Paid
+LNK1370,Maria Garcia,36,Male,117263,9255,60,9.89,681,Credit Card,Fully Paid
+LNK1371,Michael Brown,34,Male,125756,19484,60,5.75,536,Small Business,Current
+LNK1372,Karen Taylor,32,Female,90461,61549,36,7.12,636,Debt Consolidation,Fully Paid
+LNK1373,James Smith,43,Male,105418,39503,60,10.88,837,Major Purchase,Late (31-120 days)
+LNK1374,Robert Jones,35,Female,96672,78794,36,11.91,555,Home Improvement,Fully Paid
+LNK1375,John Doe,48,Female,64832,50113,60,10.76,686,Major Purchase,Fully Paid
+LNK1376,Sarah Thomas,54,Female,61966,79069,60,12.4,840,Major Purchase,Current
+LNK1377,William Davis,22,Male,102545,10249,36,13.24,757,Debt Consolidation,Fully Paid
+LNK1378,Alice Smith,52,Female,42987,24201,60,5.63,557,Small Business,Current
+LNK1379,Michael Brown,43,Female,67311,63576,36,11.53,622,Credit Card,Current
+LNK1380,Linda Hernandez,42,Female,61575,14686,36,18.03,687,Major Purchase,Late (31-120 days)
+LNK1381,Maria Garcia,45,Female,93852,58363,60,12.25,729,Small Business,Current
+LNK1382,David Miller,42,Female,31007,5661,36,14.31,667,Credit Card,Current
+LNK1383,Barbara Gonzalez,42,Female,100981,49843,36,9.55,613,Major Purchase,Current
+LNK1384,John Martinez,62,Male,106242,65963,36,15.56,751,Credit Card,Late (31-120 days)
+LNK1385,Maria Garcia,26,Female,77517,47828,60,15.55,606,Small Business,Fully Paid
+LNK1386,Linda Hernandez,35,Female,140022,53604,36,12.28,536,Home Improvement,Fully Paid
+LNK1387,Robert Jones,63,Male,59257,15526,36,18.19,834,Small Business,Fully Paid
+LNK1388,Susan Wilson,57,Female,117272,73910,60,7.13,591,Debt Consolidation,Fully Paid
+LNK1389,Karen Taylor,53,Female,72207,30592,60,5.72,517,Credit Card,Current
+LNK1390,John Doe,28,Female,43281,33982,36,15.51,562,Home Improvement,Current
+LNK1391,Karen Taylor,64,Male,91246,5207,36,15.99,649,Credit Card,Current
+LNK1392,Elizabeth Lopez,64,Male,31435,73619,36,7.06,638,Credit Card,Fully Paid
+LNK1393,Elizabeth Lopez,25,Non-binary,128875,34328,36,8.95,685,Major Purchase,Current
+LNK1394,John Martinez,59,Female,130686,51479,36,5.73,684,Debt Consolidation,Fully Paid
+LNK1395,Maria Garcia,24,Male,121357,25103,60,9.31,704,Credit Card,Current
+LNK1396,Alice Smith,26,Female,56660,44891,60,15.55,759,Small Business,Current
+LNK1397,Jessica Anderson,52,Female,35084,15754,60,12.23,713,Small Business,Fully Paid
+LNK1398,John Martinez,50,Female,112197,77982,36,10.03,755,Major Purchase,Fully Paid
+LNK1399,Jessica Anderson,55,Female,43507,60922,60,10.33,634,Debt Consolidation,Fully Paid
+LNK1401,Mary Rodriguez,36,Male,113807,34301,60,9.4,809,Small Business,Late (31-120 days)
+LNK1402,Maria Garcia,33,Male,75539,67711,60,13.9,587,Home Improvement,Current
+LNK1403,Michael Brown,62,Female,145953,46323,36,18.16,823,Major Purchase,Fully Paid
+LNK1404,Michael Brown,50,Male,37491,23752,60,16.51,706,Major Purchase,Fully Paid
+LNK1405,John Doe,39,Male,142831,18395,36,5.81,628,Small Business,Current
+LNK1406,Barbara Gonzalez,37,Male,80192,61273,60,17.18,810,Small Business,Current
+LNK1407,Mary Rodriguez,39,Female,110395,9895,36,15.68,502,Home Improvement,Fully Paid
+LNK1408,William Davis,48,Female,93888,15699,36,15.64,741,Home Improvement,Fully Paid
+LNK1409,Mary Rodriguez,46,Male,103609,70061,60,11.45,620,Debt Consolidation,Current
+LNK1410,Mary Rodriguez,57,Male,39077,14715,36,10.67,601,Major Purchase,Fully Paid
+LNK1411,John Martinez,46,Female,147440,24169,60,9.44,537,Major Purchase,Fully Paid
+LNK1412,Sarah Thomas,43,Male,50953,21163,36,6.35,840,Small Business,Fully Paid
+LNK1413,Susan Wilson,29,Male,106919,10782,60,8.47,632,Debt Consolidation,Current
+LNK1414,Alice Smith,32,Male,144682,40585,60,8.71,701,Major Purchase,In Grace Period
+LNK1415,James Smith,21,Male,97889,35682,36,11.79,847,Debt Consolidation,Charged Off
+LNK1416,Barbara Gonzalez,21,Male,53821,52864,36,15.22,520,Debt Consolidation,Current
+LNK1417,Barbara Gonzalez,54,Female,67567,60114,36,11.66,741,Small Business,Current
+LNK1418,Robert Jones,52,Male,145374,43067,36,6.25,608,Debt Consolidation,Fully Paid
+LNK1419,Barbara Gonzalez,45,Female,54860,47685,36,17.95,802,Home Improvement,Current
+LNK1420,John Doe,60,Male,51195,23073,60,17.76,583,Home Improvement,Fully Paid
+LNK1421,Michael Brown,21,Female,107475,41035,60,15.71,582,Credit Card,Current
+LNK1422,James Smith,36,Female,120874,69977,60,18.39,790,Small Business,Fully Paid
+LNK1423,Mary Rodriguez,59,Male,117266,70450,60,12.58,568,Credit Card,Fully Paid
+LNK1424,Susan Wilson,25,Female,51427,15382,60,18.02,628,Home Improvement,Fully Paid
+LNK1426,William Davis,49,Non-binary,57083,75971,36,10.25,639,Small Business,Fully Paid
+LNK1427,Jessica Anderson,23,Male,117046,69612,60,8.43,782,Small Business,Fully Paid
+LNK1428,Sarah Thomas,32,Male,87372,66929,60,8.05,811,Debt Consolidation,Charged Off
+LNK1429,Michael Brown,46,Male,74064,17329,36,7.33,733,Major Purchase,Fully Paid
+LNK1430,Maria Garcia,36,Non-binary,37813,30169,36,13.59,522,Debt Consolidation,Current
+LNK1431,Maria Garcia,57,Female,61598,39594,36,15.66,652,Small Business,In Grace Period
+LNK1432,Alice Smith,42,Female,142718,65631,36,13.02,776,Home Improvement,Charged Off
+LNK1433,Maria Garcia,49,Male,123106,50033,60,7.41,560,Home Improvement,Current
+LNK1434,Linda Hernandez,34,Female,57082,68133,36,16.04,818,Debt Consolidation,Current
+LNK1435,John Doe,48,Male,59241,78165,36,13.77,551,Small Business,Fully Paid
+LNK1436,John Martinez,25,Female,126214,78861,60,10.55,843,Home Improvement,Fully Paid
+LNK1437,Robert Jones,50,Male,74569,57290,36,14.26,652,Small Business,Fully Paid
+LNK1438,Mary Rodriguez,25,Male,41745,36750,36,8.88,736,Home Improvement,Current
+LNK1439,Robert Jones,32,Male,56029,45461,36,9.99,810,Small Business,Current
+LNK1440,Robert Jones,36,Male,43025,78800,60,17.43,801,Credit Card,Fully Paid
+LNK1441,David Miller,46,Female,131660,29226,60,9.28,531,Small Business,Fully Paid
+LNK1442,John Martinez,46,Male,44288,11721,36,11.61,554,Small Business,Current
+LNK1443,Maria Garcia,41,Female,119186,61154,60,17.07,535,Debt Consolidation,Fully Paid
+LNK1444,Sarah Thomas,59,Male,36540,25609,36,14.7,609,Credit Card,Current
+LNK1445,Karen Taylor,56,Female,127768,57130,60,6.31,676,Major Purchase,Current
+LNK1446,Michael Brown,53,Male,111958,77909,60,7.41,813,Debt Consolidation,Current
+LNK1447,John Martinez,50,Male,98878,60249,60,5.6,794,Major Purchase,Current
+LNK1448,Jessica Anderson,57,Female,71846,53895,36,13.7,835,Home Improvement,In Grace Period
+LNK1449,Sarah Thomas,43,Male,131148,10656,60,11.32,596,Major Purchase,Fully Paid
+LNK1450,John Doe,30,Male,105932,79520,60,7.25,712,Small Business,Current
+LNK1451,Sarah Thomas,25,Female,47482,68740,36,17.95,816,Major Purchase,Current
+LNK1452,Linda Hernandez,56,Female,53411,69309,60,12.39,636,Debt Consolidation,Fully Paid
+LNK1453,Michael Brown,54,Male,80975,34984,36,8.64,505,Debt Consolidation,Fully Paid
+LNK1454,James Smith,51,Male,90545,78822,60,12.01,608,Major Purchase,Fully Paid
+LNK1455,Barbara Gonzalez,30,Female,142302,10901,36,14.34,534,Debt Consolidation,Fully Paid
+LNK1456,Linda Hernandez,39,Male,108797,36552,60,6.49,538,Debt Consolidation,Current
+LNK1457,Sarah Thomas,52,Male,82307,36055,36,9.07,649,Major Purchase,Current
+LNK1458,James Smith,21,Male,33093,42685,36,15.99,617,Credit Card,Fully Paid
+LNK1459,Michael Brown,25,Female,107258,78965,36,11.48,760,Credit Card,Fully Paid
+LNK1460,Karen Taylor,24,Female,52042,19716,36,12.61,586,Home Improvement,Charged Off
+LNK1461,Jessica Anderson,36,Male,82930,16138,36,11.13,575,Debt Consolidation,Fully Paid
+LNK1462,Robert Jones,44,Male,147584,40298,36,6.07,812,Major Purchase,Fully Paid
+LNK1463,Sarah Thomas,36,Male,74413,56112,36,7.65,713,Debt Consolidation,Current
+LNK1464,Maria Garcia,22,Female,143387,28429,36,11.29,784,Small Business,Current
+LNK1465,John Doe,48,Male,123623,55200,36,8.22,738,Debt Consolidation,Fully Paid
+LNK1466,Robert Jones,52,Male,127883,76308,60,6.15,664,Debt Consolidation,Fully Paid
+LNK1467,Mary Rodriguez,47,Female,63756,53244,36,16.47,586,Credit Card,Fully Paid
+LNK1468,Alice Smith,40,Male,83268,22347,60,18.26,640,Major Purchase,Current
+LNK1469,John Martinez,44,Female,69214,21920,60,15.81,659,Debt Consolidation,Current
+LNK1470,John Martinez,32,Male,111871,36822,60,16.6,545,Credit Card,Fully Paid
+LNK1471,Maria Garcia,55,Male,58602,51659,36,8.65,611,Home Improvement,Current
+LNK1472,Sarah Thomas,53,Male,83331,45108,60,17.99,544,Credit Card,Current
+LNK1473,Mary Rodriguez,53,Female,78901,12967,36,8.06,746,Credit Card,Fully Paid
+LNK1474,Karen Taylor,63,Female,129986,16871,36,17.87,603,Credit Card,Fully Paid
+LNK1476,James Smith,32,Male,62196,38613,60,14.75,633,Debt Consolidation,Fully Paid
+LNK1477,Robert Jones,23,Female,35626,33179,36,18.25,607,Home Improvement,Fully Paid
+LNK1478,Mary Rodriguez,21,Male,37424,57188,36,12.9,517,Small Business,Current
+LNK1479,James Smith,53,Male,42857,60099,60,8.87,593,Small Business,Late (31-120 days)
+LNK1480,John Doe,60,Female,140459,40262,60,11.18,649,Small Business,Current
+LNK1481,Mary Rodriguez,30,Male,145621,23268,36,13.22,745,Home Improvement,Current
+LNK1482,David Miller,63,Male,49982,65545,36,6.45,788,Small Business,Current
+LNK1483,Karen Taylor,64,Male,106961,77146,60,13.59,708,Small Business,Fully Paid
+LNK1484,Robert Jones,49,Male,31980,76966,36,18.26,625,Credit Card,Current
+LNK1485,Jessica Anderson,33,Male,78290,44922,36,7.97,734,Debt Consolidation,Fully Paid
+LNK1486,Alice Smith,32,Female,56431,47913,36,15.8,621,Debt Consolidation,Fully Paid
+LNK1487,Jessica Anderson,51,Male,114976,60677,60,17.3,637,Credit Card,Current
+LNK1488,John Martinez,22,Female,137288,54841,60,17.77,614,Credit Card,Current
+LNK1489,David Miller,55,Female,112711,51332,60,17.98,661,Credit Card,Fully Paid
+LNK1490,Mary Rodriguez,43,Male,144187,30032,60,12.28,700,Debt Consolidation,Late (31-120 days)
+LNK1491,Susan Wilson,37,Male,56385,42846,36,18.21,733,Small Business,Fully Paid
+LNK1492,Susan Wilson,46,Male,68158,64474,36,15.35,527,Credit Card,Fully Paid
+LNK1493,Jessica Anderson,28,Female,53019,49936,36,7.6,510,Home Improvement,Fully Paid
+LNK1494,Linda Hernandez,49,Male,48639,34794,36,11.7,705,Credit Card,Current
+LNK1495,John Doe,46,Female,115530,66588,36,14.84,666,Major Purchase,Current
+LNK1496,Barbara Gonzalez,30,Male,129911,75984,60,8.72,746,Credit Card,Fully Paid
+LNK1497,Susan Wilson,46,Female,51563,55331,60,13.83,546,Debt Consolidation,Current
+LNK1498,John Martinez,54,Male,69341,33141,60,14.17,745,Credit Card,Fully Paid
+LNK1499,Robert Jones,61,Male,145672,14074,36,7.62,626,Major Purchase,Current
+LNK1501,Maria Garcia,24,Female,66444,28291,60,15.53,617,Small Business,Fully Paid
+LNK1502,David Miller,31,Male,98916,46568,36,11.99,651,Credit Card,Late (31-120 days)
+LNK1503,Maria Garcia,49,Female,38711,51851,60,5.66,571,Major Purchase,Fully Paid
+LNK1504,Alice Smith,56,Female,104318,59823,36,5.62,636,Major Purchase,Fully Paid
+LNK1505,James Smith,45,Female,112970,28312,36,10.14,674,Home Improvement,Current
+LNK1506,Robert Jones,41,Female,142301,48108,36,17.54,788,Debt Consolidation,Charged Off
+LNK1507,Elizabeth Lopez,56,Male,115553,71918,36,8.47,518,Credit Card,Fully Paid
+LNK1508,Susan Wilson,30,Male,60707,39171,36,13.75,694,Major Purchase,Fully Paid
+LNK1509,Linda Hernandez,57,Male,69110,46779,60,8.39,829,Home Improvement,Fully Paid
+LNK1510,John Doe,29,Female,91788,73828,60,9.68,674,Small Business,Current
+LNK1511,James Smith,44,Female,112879,17411,60,16.52,640,Major Purchase,Fully Paid
+LNK1512,Susan Wilson,55,Male,68827,62009,60,14.98,745,Home Improvement,Current
+LNK1513,William Davis,55,Male,137188,20422,36,6.74,592,Debt Consolidation,Charged Off
+LNK1514,James Smith,56,Female,35655,47468,60,11.07,738,Debt Consolidation,Fully Paid
+LNK1515,James Smith,38,Non-binary,74859,37371,36,5.88,704,Major Purchase,Fully Paid
+LNK1516,Elizabeth Lopez,59,Female,83625,62022,36,11.75,547,Major Purchase,Fully Paid
+LNK1517,John Martinez,52,Male,82098,76229,36,14.11,744,Credit Card,Fully Paid
+LNK1518,Linda Hernandez,44,Male,45251,56196,36,7.04,819,Home Improvement,Late (31-120 days)
+LNK1519,Karen Taylor,43,Male,30526,31715,36,9.26,816,Major Purchase,Fully Paid
+LNK1520,Sarah Thomas,52,Female,98760,32605,36,10.67,794,Credit Card,Fully Paid
+LNK1521,Linda Hernandez,57,Male,77837,36174,36,17.45,627,Credit Card,Current
+LNK1522,Alice Smith,32,Female,41536,14956,60,18.41,843,Major Purchase,Fully Paid
+LNK1523,Robert Jones,33,Male,58541,74252,36,6.08,781,Debt Consolidation,Current
+LNK1524,James Smith,43,Female,109083,66949,36,15.39,516,Home Improvement,Fully Paid
+LNK1525,John Doe,45,Female,81027,67646,36,10.33,570,Home Improvement,Current
+LNK1526,Linda Hernandez,55,Female,64531,75017,60,10.6,768,Debt Consolidation,Late (31-120 days)
+LNK1527,Michael Brown,61,Male,38712,68037,36,15.31,824,Major Purchase,Current
+LNK1528,Robert Jones,50,Male,134101,11548,36,17.44,781,Home Improvement,Charged Off
+LNK1529,Sarah Thomas,37,Male,95455,78294,36,17.86,804,Major Purchase,Fully Paid
+LNK1530,Robert Jones,40,Female,104744,28177,36,13,506,Major Purchase,Fully Paid
+LNK1531,Michael Brown,45,Female,35109,29022,36,10.14,813,Credit Card,Current
+LNK1532,Elizabeth Lopez,42,Female,79268,10542,36,15.74,804,Debt Consolidation,Current
+LNK1533,Michael Brown,33,Female,130737,65428,36,8.76,602,Major Purchase,Fully Paid
+LNK1534,Barbara Gonzalez,39,Female,84615,27740,36,12.83,808,Small Business,Fully Paid
+LNK1535,Sarah Thomas,56,Male,112503,64353,36,10.16,692,Debt Consolidation,Fully Paid
+LNK1536,Maria Garcia,32,Female,59759,61532,60,14.04,740,Home Improvement,Fully Paid
+LNK1537,Mary Rodriguez,61,Male,115708,21052,36,8.63,561,Credit Card,Fully Paid
+LNK1538,Michael Brown,39,Male,90112,52076,36,7.99,516,Home Improvement,Current
+LNK1539,Karen Taylor,32,Female,132471,58420,36,17.44,670,Home Improvement,Fully Paid
+LNK1540,John Doe,29,Male,56589,5671,60,6.82,524,Debt Consolidation,Fully Paid
+LNK1541,Elizabeth Lopez,27,Male,60015,5163,36,12.08,750,Home Improvement,Current
+LNK1542,Maria Garcia,48,Female,59009,46424,36,8.37,752,Major Purchase,Current
+LNK1543,Elizabeth Lopez,34,Male,113309,58744,60,6.01,706,Home Improvement,In Grace Period
+LNK1544,Elizabeth Lopez,51,Female,92046,75331,36,5.97,528,Credit Card,Current
+LNK1545,James Smith,39,Male,136661,15634,36,7.78,616,Credit Card,Fully Paid
+LNK1546,Elizabeth Lopez,36,Male,56143,9798,36,16.77,781,Small Business,Current
+LNK1547,Michael Brown,25,Male,36154,27420,60,9.17,643,Credit Card,Current
+LNK1548,Mary Rodriguez,55,Male,51804,34300,36,17.86,524,Home Improvement,Fully Paid
+LNK1549,Barbara Gonzalez,32,Female,71688,15749,60,13.06,809,Credit Card,Current

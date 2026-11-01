@@ -1,0 +1,13 @@
+Key Insights
+
+1. Loan Portfolio Overview: Analysed overall loan records, total loan amounts, average loan size, customer income, and credit scores to understand the bank's lending portfolio.
+
+2. Loan Status Analysis: Compared Fully Paid and Charged Off loans to understand repayment performance and identify potential financial risks.
+
+3. Customer Credit Analysis: Examined average, highest, and lowest credit scores to understand the credit profiles of loan applicants.
+
+4. Loan Amount Analysis: Evaluated average, minimum, and maximum loan amounts to understand the distribution of lending amounts.
+
+5. Data Visualization: Created charts using Matplotlib and Seaborn to present loan status distribution, total loan amounts by status, and customer credit score patterns.
+
+6. Business Understanding: Used Python libraries such as Pandas and NumPy to organise, analyse, and interpret loan-related data.
