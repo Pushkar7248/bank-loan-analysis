@@ -1,0 +1,13 @@
+Key Insights
+
+1. Data Cleaning: Identified and handled inconsistent entries, missing values, duplicate records, and formatting issues to prepare the dataset for accurate analysis.
+
+2. Loan Portfolio Overview: Used Excel formulas to calculate important KPIs, including total loans, total loan amount, average loan amount, and customer-related statistics.
+
+3. Loan Status Analysis: Used PivotTables to examine different loan statuses and understand the distribution of Fully Paid, Current, Late, and Charged Off loans.
+
+4. Customer Analysis: Analysed customer information to identify borrowing patterns across different age groups, genders, and income categories.
+
+5. Loan Purpose Analysis: Compared loan amounts and application counts across different loan purposes to understand customer borrowing preferences.
+
+6. KPI Dashboard: Created a summary dashboard using formulas, PivotTables, and charts to present important loan performance indicators in an organised format.
