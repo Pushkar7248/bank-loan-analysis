@@ -1,85 +1,103 @@
-Bank Loan Analysis | End-to-End Data Analytics Project
+# Bank Loan Analysis
 
-Project Overview
+## Project Overview
 
-The Bank Loan Analysis project focuses on analysing banking and loan-related data to understand lending patterns, customer profiles, loan repayment performance, and potential credit risks.
+This project focuses on analyzing bank loan data to understand loan performance, customer profiles, and credit risk. It uses Excel, Python, PostgreSQL, and Power BI to clean, analyze, and visualize data and generate meaningful business insights.
 
-This project uses **Microsoft Excel, Python, PostgreSQL, and Power BI** to transform raw loan data into meaningful business insights.
+## Project Objectives
 
-The main objective is to analyse loan performance, identify potential risk areas, and support better financial decision-making through data analysis and interactive dashboards.
+  * Analyze bank loan applications and loan status.
+  * Understand fully paid, current, and charged-off loans.
+  * Identify patterns in customer income, age, and credit scores.
+  * Analyze loan purposes and repayment trends.
+  * Identify potential credit risk.
+  * Build an interactive Power BI dashboard.
 
-
-Project Objectives
-  * Analyse overall loan distribution and funding.
-  * Understand loan repayment performance.
-  * Identify potential high-risk loan categories.
-  * Explore customer income and credit score patterns.
-  * Compare loan performance across different customer segments.
-  * Develop an interactive dashboard for business reporting.
-
-
-Tools & Technologies Used
-
- Tool                  Skills Applied                                                     
- Microsoft Excel       Data Cleaning, Formulas, PivotTables, KPI Analysis, Charts         
- Python                Data Analysis, Data Exploration, Statistical Analysis              
- Pandas & NumPy        Data Manipulation and Numerical Operations                         
- Matplotlib & Seaborn  Data Visualization                                                 
- PostgreSQL            SQL Queries, Aggregations, CTEs, CASE Statements, Window Functions 
- Power BI              Interactive Dashboards, DAX Measures, Data Visualization, Slicers  
+## Tools & Technologies
+                                          
+ Microsoft Excel - Data cleaning, formulas, PivotTables, and analysis 
+ Python - Data analysis and visualization                    
+ Pandas - Data manipulation and cleaning                     
+ NumPy - Numerical operations                               
+ Matplotlib - Data visualization                                 
+ Seaborn - Statistical visualizations                         
+ PostgreSQL - SQL queries and database analysis                  
+ Power BI - Interactive dashboard and reporting                
 
 
-Project Workflow
-  1. Data Collection: Worked with a bank loan dataset containing customer and loan-related information.
+## 📊 Power BI Dashboard
 
-  2. Data Cleaning: Identified and handled inconsistent entries, missing values, duplicate records, and formatting issues.
+### 1. Full Dashboard
 
-  3. Excel Analysis: Performed data exploration, KPI calculations, PivotTable analysis, and summary reporting.
+![Full Bank Loan Dashboard](PowerBI/Dashboard%20Image/01_Full_Dashboard.png)
 
-  4. Python Analysis: Used Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization.
+### 2. Filtered Dashboard
 
-  5. SQL Analysis: Used PostgreSQL to perform advanced queries and investigate loan performance and credit risk.
+![Filtered Bank Loan Dashboard](PowerBI/Dashboard%20Image/02_Filtered_Dashboard.png)
 
-  6. Power BI Dashboard: Developed an interactive dashboard to present important KPIs and business insights.
+The interactive dashboard provides an overview of loan performance, customer information, and credit risk. Slicers allow users to explore different segments of the data.
 
+## 📈 Analysis Performed
 
-Power BI Dashboard
-The Power BI dashboard provides an interactive overview of the bank loan portfolio.
+### Excel Analysis
 
-### Full Dashboard
+  * Data cleaning and formatting.
+  * Handling missing and duplicate values.
+  * Formulas and calculations.
+  * PivotTables and PivotCharts.
+  * KPI summaries and conditional formatting.
 
-![Bank Loan Dashboard](PowerBI/01_Full_Dashboard.png)
+### Python Analysis
 
-### Filtered Dashboard
+  * Data loading and exploration using Pandas.
+  * Data cleaning and manipulation.
+  * Statistical analysis using NumPy and Pandas.
+  * Loan status analysis.
+  * Credit score analysis.
+  * Data visualization using Matplotlib and Seaborn.
 
-![Bank Loan Dashboard](PowerBI/02_Filtered_Dashboard.png)
+### SQL Analysis
 
-Key Business Areas Analysed
-  * Loan Status Distribution
-  * Good Loans vs Bad Loans
-  * Loan Purpose Analysis
-  * Customer Credit Score Analysis
-  * Income Group Analysis
-  * Age Group Analysis
-  * Loan Term Comparison
-  * High-Risk Loan Identification
+  * Data retrieval and filtering.
+  * Aggregations and grouping.
+  * Loan status and loan purpose analysis.
+  * Credit score and income segmentation.
+  * Risk analysis using CASE statements.
+  * CTEs, subqueries, and window functions.
+  * Ranking and identification of high-risk loans.
 
+### Power BI Dashboard
 
-Skills Demonstrated
-Through this project, I applied practical knowledge of:
-  * Data Cleaning and Data Preprocessing
+  * Data transformation using Power Query.
+  * Data modeling and DAX measures.
+  * KPI cards and interactive slicers.
+  * Charts for loan performance and customer analysis.
+  * Interactive reporting and visualization.
+
+## 💡 Key Business Areas
+
+This project explores:
+
+  * Loan performance and repayment status.
+  * Good loans versus bad loans.
+  * Credit score and income patterns.
+  * Loan purpose and loan term comparisons.
+  * Customer demographics.
+  * Potential credit risk and money at risk.
+
+## Skills Demonstrated
+
+  * Data Cleaning
+  * Data Analysis
   * Exploratory Data Analysis (EDA)
-  * Statistical Analysis
-  * SQL Query Writing
   * Data Visualization
-  * KPI Development
-  * Dashboard Creation
-  * Business Insight Generation
+  * SQL Query Writing
+  * Database Analysis
+  * Excel Reporting
+  * Power BI Dashboard Development
+  * Business Insights
   * Credit Risk Analysis
-  * Data Interpretation
 
-Project Outcome
-Successfully developed an end-to-end Bank Loan Analysis project using Excel, Python, PostgreSQL, and Power BI.
+I am an aspiring Data Analyst with practical knowledge of Excel, Python, PostgreSQL, and Power BI. I enjoy working with data, identifying patterns, and transforming raw information into meaningful insights that support business decisions.
 
-The project demonstrates practical data analytics skills, including data cleaning, exploratory analysis, advanced SQL querying, business intelligence reporting, and interactive dashboard development.
-
+**GitHub:** [Pushkar Sharma](https://github.com/Pushkar7248)
