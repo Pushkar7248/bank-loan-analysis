@@ -1,0 +1,17 @@
+Key Insights
+
+1. Loan Portfolio Overview: Created an interactive dashboard displaying 536 total loans, total loan amount of 23.33 million, and an average loan amount of approximately 43.52K.
+
+2. Loan Status Distribution: Visualised loan performance across different repayment categories, helping identify Fully Paid, Current, Late, and Charged Off loans.
+
+3. Loan Purpose Analysis: Compared loan amounts across different purposes to understand funding distribution and customer borrowing preferences.
+
+4. Repayment Performance: Analysed loan counts by repayment status to understand the overall performance of the bank's loan portfolio.
+
+5. Credit Score Analysis: Compared average customer credit scores across different loan statuses to identify potential relationships between creditworthiness and repayment performance.
+
+6. Customer Age Analysis: Used age-group visualisations to understand the distribution of loans among different customer age categories.
+
+7. Interactive Dashboard: Added slicers for Gender, Loan Purpose, and Loan Status, allowing users to filter data and explore specific customer segments.
+
+8. DAX Measures: Created six DAX measures to calculate Total Loans, Total Loan Amount, Average Loan Amount, Charged Off Loans, Fully Paid Loans, and Average Credit Score.
