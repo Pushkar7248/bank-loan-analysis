@@ -97,7 +97,3 @@ This project explores:
   * Power BI Dashboard Development
   * Business Insights
   * Credit Risk Analysis
-
-I am an aspiring Data Analyst with practical knowledge of Excel, Python, PostgreSQL, and Power BI. I enjoy working with data, identifying patterns, and transforming raw information into meaningful insights that support business decisions.
-
-**GitHub:** [Pushkar Sharma](https://github.com/Pushkar7248)
