@@ -25,7 +25,7 @@ This project focuses on analyzing bank loan data to understand loan performance,
  Power BI - Interactive dashboard and reporting                
 
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
 ### 1. Full Dashboard
 
@@ -37,7 +37,7 @@ This project focuses on analyzing bank loan data to understand loan performance,
 
 The interactive dashboard provides an overview of loan performance, customer information, and credit risk. Slicers allow users to explore different segments of the data.
 
-## 📈 Analysis Performed
+## Analysis Performed
 
 ### Excel Analysis
 
@@ -74,7 +74,7 @@ The interactive dashboard provides an overview of loan performance, customer inf
   * Charts for loan performance and customer analysis.
   * Interactive reporting and visualization.
 
-## 💡 Key Business Areas
+## Key Business Areas
 
 This project explores:
 
