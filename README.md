@@ -29,11 +29,11 @@ This project focuses on analyzing bank loan data to understand loan performance,
 
 ### 1. Full Dashboard
 
-![Full Bank Loan Dashboard](PowerBI/Dashboard%20Image/01_Full_Dashboard.png)
+![Full Bank Loan Dashboard](PowerBI/01_Full_Dashboard.png)
 
 ### 2. Filtered Dashboard
 
-![Filtered Bank Loan Dashboard](PowerBI/Dashboard%20Image/02_Filtered_Dashboard.png)
+![Filtered Bank Loan Dashboard](PowerBI/02_Filtered_Dashboard.png)
 
 The interactive dashboard provides an overview of loan performance, customer information, and credit risk. Slicers allow users to explore different segments of the data.
 
